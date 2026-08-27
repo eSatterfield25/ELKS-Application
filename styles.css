@@ -1,5 +1,7 @@
-h1 {
-    
+#body {
+    margin: auto;
+    hight: 200px;
+    width: 100px;
 }
 body {
     background-color: rgb(245, 225, 193)
