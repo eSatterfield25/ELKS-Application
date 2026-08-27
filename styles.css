@@ -1,8 +1,11 @@
 #body {
+    background-color: rgb(245, 225, 193)
     margin: auto;
     hight: 1500px;
     width: 500px;
 }
-body {
-    background-color: rgb(245, 225, 193)
+#navigation {
+    float: left;
+    boarder-style: 5px;
+    boarder-color: red;
 }
