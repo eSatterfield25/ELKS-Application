@@ -6,6 +6,6 @@ body {
 }
 #navigation {
     float: left;
-    boarder-style: 5px;
-    boarder-color: red;
+    border-style: 5px;
+    border-color: red;
 }
